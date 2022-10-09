@@ -1,0 +1,21 @@
+{
+  "name": "ecommerce_october_2022",
+  "version": "1.0.0",
+  "description": "\"aman is best developer\"",
+  "main": "app56.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app56.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "sequelize": "^6.24.0",
+    "sequelize-cli": "^6.5.1"
+  }
+}
